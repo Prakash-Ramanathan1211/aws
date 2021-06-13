@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aws points</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Aws points</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Jun 2021 16:00:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aws Points</title>
+      <link>https://example.com/posts/aws-points/</link>
+      <pubDate>Sun, 13 Jun 2021 16:00:46 +0530</pubDate>
+      
+      <guid>https://example.com/posts/aws-points/</guid>
+      <description>Security and governance: AWS provides a range of services for cloud security, including AWS Identity and Access Management, which allows admins to define and manage user access to resources. An admin can also create a user directory with Amazon Cloud Directory, or connect cloud resources to an existing Microsoft Active Directory with the AWS Directory Service. The AWS Organizations service enables a business to establish and manage policies for multiple AWS accounts.</description>
+    </item>
+    
+    <item>
+      <title>Aws Points</title>
+      <link>https://example.com/posts/aws-basic/</link>
+      <pubDate>Sun, 13 Jun 2021 16:00:46 +0530</pubDate>
+      
+      <guid>https://example.com/posts/aws-basic/</guid>
+      <description>AWS points
+ AWS - Amazon Web Services AWS is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. These cloud computing web services provide a variety of basic abstract technical infrastructure and distributed computing building blocks and tools. The AWS technology is implemented at server farms throughout the world, and maintained by the Amazon subsidiary. Fees are based on a combination of usage (known as a &amp;ldquo;Pay-as-you-go&amp;rdquo; model), hardware, operating system, software, or networking features chosen by the subscriber required availability, redundancy, security, and service options.</description>
+    </item>
+    
+  </channel>
+</rss>
